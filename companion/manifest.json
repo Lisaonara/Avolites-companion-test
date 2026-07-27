@@ -1,0 +1,30 @@
+{
+	"id": "avolites-titan (TEST)",
+	"name": "avolites-titan (TEST)",
+	"shortname": "titan (TEST)",
+	"description": "Module for controlling Avolites Titan",
+	"version": "2.5.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-avolites-titan.git",
+	"bugs": "https://github.com/bitfocus/companion-module-avolites-titan/issues",
+	"maintainers": [
+		{
+			"name": "Matteo Piccina",
+			"email": "matteo.piccina@cvm.it"
+		},
+		{
+			"name": "Vincent Bouquet",
+			"email": "contact@vincent-bouquet.fr"
+		}
+	],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../dist/main.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "Avolites",
+	"products": ["Titan"],
+	"keywords": ["Lighting"]
+}
