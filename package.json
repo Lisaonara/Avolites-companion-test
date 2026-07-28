@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-avolites-titan.git"
+		"url": "git+https://github.com/Lisaonara/companion-module-avolites-titan-Test.git"
 	},
 	"engines": {
 		"node": "^22.14",

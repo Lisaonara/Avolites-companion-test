@@ -5,8 +5,8 @@
 	"description": "Module for controlling Avolites Titan",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/Lisaonara/Avolites-companion-test.git",
-	"bugs": "https://github.com/Lisaonara/Avolites-companion-test/issues",
+	"repository": "git+https://github.com/Lisaonara/companion-module-avolites-titan-Test.git",
+	"bugs": "https://github.com/Lisaonara/companion-module-avolites-titan-Test/issues",
 	"maintainers": [
 		{
 			"name": "Matteo Piccina",
