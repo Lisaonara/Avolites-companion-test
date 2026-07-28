@@ -1,7 +1,7 @@
 {
-	"id": "avolites-titan (TEST)",
-	"name": "avolites-titan (TEST)",
-	"shortname": "titan (TEST)",
+	"id": "avolites-titan-Test",
+	"name": "avolites-titan-Test",
+	"shortname": "titan Test",
 	"description": "Module for controlling Avolites Titan",
 	"version": "1.0.0",
 	"license": "MIT",
@@ -9,12 +9,8 @@
 	"bugs": "https://github.com/Lisaonara/companion-module-avolites-titan-Test/issues",
 	"maintainers": [
 		{
-			"name": "Matteo Piccina",
-			"email": "matteo.piccina@cvm.it"
-		},
-		{
-			"name": "Vincent Bouquet",
-			"email": "contact@vincent-bouquet.fr"
+			"name": "Lisonara",
+			"email": "Mark-minecraft@outlook.com"
 		}
 	],
 	"runtime": {
