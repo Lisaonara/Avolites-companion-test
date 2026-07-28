@@ -3,10 +3,10 @@
 	"name": "avolites-titan (TEST)",
 	"shortname": "titan (TEST)",
 	"description": "Module for controlling Avolites Titan",
-	"version": "2.5.0",
+	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-avolites-titan.git",
-	"bugs": "https://github.com/bitfocus/companion-module-avolites-titan/issues",
+	"repository": "git+https://github.com/Lisaonara/Avolites-companion-test.git",
+	"bugs": "https://github.com/Lisaonara/Avolites-companion-test/issues",
 	"maintainers": [
 		{
 			"name": "Matteo Piccina",
