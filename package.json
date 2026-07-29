@@ -23,12 +23,14 @@
 		"yarn": "^4"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.11.3"
+		"@companion-module/base": "~1.11.3",
+		"@types/node-fetch": "^2.6.13",
+		"node-fetch": "^3.3.2"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.6.1",
+		"@companion-module/tools": "^3.0.2",
 		"@types/node": "^22.14.1",
-		"eslint": "^9.24.0",
+		"eslint": "^10.8.0",
 		"husky": "^9.1.7",
 		"lint-staged": "^15.5.1",
 		"prettier": "^3.5.3",
